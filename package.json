@@ -1,0 +1,27 @@
+{
+  "name": "smartdrive",
+  "version": "1.0.0",
+  "description": "do more with local and cloud drives",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "(npmts)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/pushrocks/smartdrive.git"
+  },
+  "keywords": [
+    "GDrive",
+    "OneDrive",
+    "LocalDrive"
+  ],
+  "author": "Lossless GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/pushrocks/smartdrive/issues"
+  },
+  "homepage": "https://gitlab.com/pushrocks/smartdrive#README",
+  "devDependencies": {
+    "npmts-g": "^5.2.6"
+  }
+}
