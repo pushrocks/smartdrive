@@ -25,6 +25,9 @@
     "npmts-g": "^5.2.6"
   },
   "dependencies": {
-    "beautylog": "^5.0.12"
+    "beautylog": "^5.0.12",
+    "drivelist": "^3.2.0",
+    "googleapis": "^8.2.0",
+    "smartfile": "^3.0.10"
   }
 }
