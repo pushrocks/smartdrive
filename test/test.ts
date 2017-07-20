@@ -18,4 +18,8 @@ tap.test('drivelist should contain drives', async () => {
   console.log(driveList)
 })
 
+tap.test('drivelist should contain drives', async () => {
+  
+})
+
 tap.start()

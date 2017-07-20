@@ -1,7 +1,7 @@
 import * as plugins from './smartdrive.plugins'
 import { IDrive } from './smartdrive.interfaces'
 
-let promisifiedDrivelist = plugins.smartq.promisify<any>(plugins.drivelist.list)
+let promisifiedDrivelist = plugins.smartq.promisify(plugins.drivelist.list)
 
 export class LocalDriveList {
   private _list: IDrive[] = null
